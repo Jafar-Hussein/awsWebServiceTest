@@ -1,1 +1,0 @@
-web: Java -Xms256 -jar
